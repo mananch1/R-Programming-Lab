@@ -1,3 +1,5 @@
 *data
 *.pdf
 *.Rhistory
+.Rproj.user
+*.docx
